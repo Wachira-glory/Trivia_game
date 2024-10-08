@@ -2,6 +2,7 @@ I developed a responsive trivia game using HTML, CSS, and JavaScript that tests 
 
 **Features**
 
+
 Clean Interface: User-friendly design for an enjoyable gaming experience.
 
 Multiple-Choice Questions: Players navigate through 10 questions across various categories.
@@ -17,15 +18,22 @@ Final Results Screen: Displays the total score at the end of the game.
 Mobile-First Design: Optimized for performance on all devices.
 
 **Technologies Used**
+
+
 1.HTML: Structure of the game.
+
 2.CSS: Styling for a visually appealing interface.
-3.JavaScript: Handles game logic, including:
-4.Randomly selecting questions
+
+3.JavaScript: Handles game logic, including:Randomly selecting questions
 5.Tracking scores
+
 6.Updating displays
+
 7.Managing answer selections
 
 **Installation**
+
+
 To run the trivia game locally:
 1. Clone this repository to your local machine.
 
