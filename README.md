@@ -3,19 +3,19 @@ I developed a responsive trivia game using HTML, CSS, and JavaScript that tests 
 **Features**
 
 
-Clean Interface: User-friendly design for an enjoyable gaming experience.
+1.Clean Interface: User-friendly design for an enjoyable gaming experience.
 
-Multiple-Choice Questions: Players navigate through 10 questions across various categories.
+2.Multiple-Choice Questions: Players navigate through 10 questions across various categories.
 
-Countdown Timer: Adds excitement and urgency to each question.
+3.Countdown Timer: Adds excitement and urgency to each question.
 
-Scoring System: Earn points for correct answers, enhancing competitiveness.
+4.Scoring System: Earn points for correct answers, enhancing competitiveness.
 
-Answer Feedback: Immediate feedback on player choices.
+5.Answer Feedback: Immediate feedback on player choices.
 
-Final Results Screen: Displays the total score at the end of the game.
+6.Final Results Screen: Displays the total score at the end of the game.
 
-Mobile-First Design: Optimized for performance on all devices.
+7.Mobile-First Design: Optimized for performance on all devices.
 
 **Technologies Used**
 
